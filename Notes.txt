@@ -1,0 +1,4 @@
+Body bg color:#8EC3B0
+h1,h2 font color:#632626
+h3 font color:#11999E
+Fonts Used:Sacremento(h1-For Name),Merriweather(Merriweather-For line contents),Montserrat(h2,h3-Headings)
